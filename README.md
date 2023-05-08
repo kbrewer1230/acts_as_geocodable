@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Update Docs language dropdown height (#6927)
