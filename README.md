@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
