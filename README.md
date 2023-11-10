@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
