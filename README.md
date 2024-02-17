@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update Colab notebook for YOLOv8.1 (#8660)
