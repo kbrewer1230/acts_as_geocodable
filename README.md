@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Updated SQL Query Plot Code (#8120)
